@@ -1,0 +1,9 @@
+id role name rating orderHistory paymentMethod pinnedAddresses
+1 1 Vova 5 {23/54 11/22 cash,99/12 33/22 card: 1231123112311231,33/33 100/100 cash} cash/card[1231123112311231] 11/11 
+2 1 Ivan 4.1 {33/54 12/98 cash,32/72 11/99 cash} cash none
+3 1 Alex 3.2 {87/12 32/9 card: 1111111111111111,98/54 12/65 card:1111111111111111} cash/card[1111111111111111] 55/55,98/54
+id role name rating orderHistory
+4 2 Nurdaulet 4.8 {33/54 12/98 cash,23/54 11/22 cash,33/33 100/100 cash} 
+5 2 Zhandos 4 {32/72 11/99 cash,87/12 32/9 card: 1111111111111111}
+6 2 Asanali 5 {99/12 33/22 card: 1231123112311231,98/54 12/65 card:1111111111111111}
+8 3 Olzhas

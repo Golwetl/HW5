@@ -1,0 +1,3 @@
+C:/Users/Angel/CLionProjects/HW5/cmake-build-debug/CMakeFiles/HW4.dir
+C:/Users/Angel/CLionProjects/HW5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Angel/CLionProjects/HW5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
